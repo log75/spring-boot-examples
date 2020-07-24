@@ -1,0 +1,67 @@
+2020-07-16 00:11:12.896  INFO 9009 --- [restartedMain] com.example.gitapi.GitApiApplication     : Starting GitApiApplication on debian with PID 9009 (/home/alireza/Documents/Git/git-api/target/classes started by alireza in /home/alireza/Documents/Git/git-api)
+2020-07-16 00:11:12.907  INFO 9009 --- [restartedMain] com.example.gitapi.GitApiApplication     : No active profile set, falling back to default profiles: default
+2020-07-16 00:11:12.999  INFO 9009 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-16 00:11:13.005  INFO 9009 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-16 00:11:14.380  INFO 9009 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-07-16 00:11:14.387  INFO 9009 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-16 00:11:14.388  INFO 9009 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-16 00:11:14.453  INFO 9009 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-16 00:11:14.454  INFO 9009 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1448 ms
+2020-07-16 00:11:14.650  INFO 9009 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:11:14.715  INFO 9009 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-16 00:11:14.825  INFO 9009 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-16 00:11:14.868  INFO 9009 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-07-16 00:11:14.888  INFO 9009 --- [restartedMain] com.example.gitapi.GitApiApplication     : Started GitApiApplication in 2.695 seconds (JVM running for 3.94)
+2020-07-16 00:11:45.381  INFO 9009 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-16 00:11:45.407  INFO 9009 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-16 00:11:45.425  INFO 9009 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2020-07-16 00:13:27.522  INFO 9009 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:13:31.923  INFO 9390 --- [restartedMain] com.example.gitapi.GitApiApplication     : Starting GitApiApplication on debian with PID 9390 (/home/alireza/Documents/Git/git-api/target/classes started by alireza in /home/alireza/Documents/Git/git-api)
+2020-07-16 00:13:31.929  INFO 9390 --- [restartedMain] com.example.gitapi.GitApiApplication     : No active profile set, falling back to default profiles: default
+2020-07-16 00:13:32.045  INFO 9390 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-16 00:13:32.048  INFO 9390 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-16 00:13:33.415  INFO 9390 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-07-16 00:13:33.423  INFO 9390 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-16 00:13:33.424  INFO 9390 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-16 00:13:33.478  INFO 9390 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-16 00:13:33.479  INFO 9390 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1428 ms
+2020-07-16 00:13:33.667  INFO 9390 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:13:33.748  INFO 9390 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-16 00:13:33.858  INFO 9390 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-16 00:13:33.899  INFO 9390 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-07-16 00:13:33.920  INFO 9390 --- [restartedMain] com.example.gitapi.GitApiApplication     : Started GitApiApplication in 2.617 seconds (JVM running for 3.852)
+2020-07-16 00:14:38.311  INFO 9390 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:14:42.791  INFO 9681 --- [restartedMain] com.example.gitapi.GitApiApplication     : Starting GitApiApplication on debian with PID 9681 (/home/alireza/Documents/Git/git-api/target/classes started by alireza in /home/alireza/Documents/Git/git-api)
+2020-07-16 00:14:42.796  INFO 9681 --- [restartedMain] com.example.gitapi.GitApiApplication     : No active profile set, falling back to default profiles: default
+2020-07-16 00:14:42.886  INFO 9681 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-16 00:14:42.888  INFO 9681 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-16 00:14:44.216  INFO 9681 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-07-16 00:14:44.225  INFO 9681 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-16 00:14:44.225  INFO 9681 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-16 00:14:44.272  INFO 9681 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-16 00:14:44.273  INFO 9681 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1385 ms
+2020-07-16 00:14:44.460  INFO 9681 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:14:44.541  INFO 9681 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-16 00:14:44.657  INFO 9681 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-16 00:14:44.698  INFO 9681 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-07-16 00:14:44.714  INFO 9681 --- [restartedMain] com.example.gitapi.GitApiApplication     : Started GitApiApplication in 2.681 seconds (JVM running for 3.937)
+2020-07-16 00:17:40.385  INFO 9681 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:17:46.729  INFO 10134 --- [restartedMain] com.example.gitapi.GitApiApplication     : Starting GitApiApplication on debian with PID 10134 (/home/alireza/Documents/Git/git-api/target/classes started by alireza in /home/alireza/Documents/Git/git-api)
+2020-07-16 00:17:46.734  INFO 10134 --- [restartedMain] com.example.gitapi.GitApiApplication     : No active profile set, falling back to default profiles: default
+2020-07-16 00:17:46.814  INFO 10134 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-16 00:17:46.815  INFO 10134 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-16 00:17:48.058  INFO 10134 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-07-16 00:17:48.077  INFO 10134 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-16 00:17:48.078  INFO 10134 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-16 00:17:48.132  INFO 10134 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-16 00:17:48.132  INFO 10134 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1317 ms
+2020-07-16 00:17:48.319  INFO 10134 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-16 00:17:48.401  INFO 10134 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-16 00:17:48.511  INFO 10134 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-16 00:17:48.560  INFO 10134 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-07-16 00:17:48.578  INFO 10134 --- [restartedMain] com.example.gitapi.GitApiApplication     : Started GitApiApplication in 2.501 seconds (JVM running for 3.926)
+2020-07-16 00:18:27.021  INFO 10134 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-16 00:18:27.022  INFO 10134 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-16 00:18:27.028  INFO 10134 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-07-16 00:18:27.048  INFO 10134 --- [http-nio-8081-exec-1] c.e.gitapi.controller.IndexController    : 1234
+2020-07-16 00:29:15.474  INFO 10134 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

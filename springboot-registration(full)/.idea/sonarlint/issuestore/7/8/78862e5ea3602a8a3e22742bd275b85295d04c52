@@ -1,0 +1,10 @@
+
+^
+java:S1128"HRemove this unused import 'org.springframework.data.domain.PageRequest'.(ºêâÚ
+d
+java:S1128"IRemove this unused import 'org.springframework.context.annotation.Scope'.(þè®€ÿÿÿÿÿ
+\
+java:S1128	"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ
+e
+java:S1128
+"JRemove this unused import 'org.springframework.objenesis.SpringObjenesis'.(ÈÐýïþÿÿÿÿ

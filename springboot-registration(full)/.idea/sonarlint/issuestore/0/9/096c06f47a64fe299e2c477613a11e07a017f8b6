@@ -1,0 +1,20 @@
+
+l
+java:S1128"WRemove this unused import 'org.springframework.context.ConfigurableApplicationContext'.(ÉšêC
+q
+java:S1128
+"VRemove this unused import 'org.springframework.boot.builder.SpringApplicationBuilder'.(«İÒøÿÿÿÿ
+c
+java:S1128"GRemove this unused import 'org.springframework.boot.ApplicationRunner'.(ÃëòN8¸ ¾ü·.
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8¸ ¾ü·.
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+|
+java:S1128"fRemove this unused import 'org.springframework.boot.web.servlet.support.SpringBootServletInitializer'.(“²ş÷
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8¸ ¾ü·.
+I
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68ä·¾ü·.
+Q
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8ä·¾ü·.

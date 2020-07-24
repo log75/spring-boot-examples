@@ -1,0 +1,7 @@
+
+G
+java:S1068"1Remove this unused "userValidator" private field.(Ë…Ø¦
+
+java:S1130""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ôåß 
+V
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ÚÌÿ´
